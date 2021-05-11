@@ -1,7 +1,0 @@
---DESABILITAR TRIGGER
-ALTER TABLE Produtos
-DISABLE TRIGGER trg_mensagem_after;
-
---HABILITAR TRIGGER
-ALTER TABLE Produtos
-ENABLE TRIGGER trg_mensagem_after;
