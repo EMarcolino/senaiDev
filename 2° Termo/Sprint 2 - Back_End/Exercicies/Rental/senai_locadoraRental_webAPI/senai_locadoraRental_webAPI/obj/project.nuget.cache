@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTw2TJaD5QEJpYjkjAYcE00Fo10xaL4+KjXLfV2MNW0kuMQbmZSx1c5Y3dJIp4GtHnrDAtorDbzZnQEH5/I7sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Estevan Marcolino\\Desktop\\senaiDev\\2° Termo\\Sprint 2 - Back_End\\Exercicies\\Rental\\senai_locadoraRental_webAPI\\senai_locadoraRental_webAPI\\senai_locadoraRental_webAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
