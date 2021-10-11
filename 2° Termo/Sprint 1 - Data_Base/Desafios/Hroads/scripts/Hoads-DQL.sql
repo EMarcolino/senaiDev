@@ -37,7 +37,7 @@ SELECT Classe.nomeClasse AS [Classe]
 FROM Classe;
 
 --Realizar contagem de quantas habilidades estão cadastradas.
-SELECT COUNT(Habilidade.idHabilidade) AS [Qtd. de Habilidades]
+SELECT COUNT(Habilidade.idHabilidade) AS [Quantidade de Habilidades]
 FROM Habilidade;
 
 --Selecionar somente os id's das habilidades classificando-os por ordem crescente.
