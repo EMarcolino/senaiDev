@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estevan Marcolino\\Desktop\\senaiDev\\2° Termo\\SpMedGroup\\2- BackEnd\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Estevan Marcolino\\Desktop\\senaiDev\\2° Termo\\SpMedicalGroup\\2- BackEnd\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI.csproj",
       "projectName": "senai_SpMedicalGroup_webAPI",
-      "projectPath": "C:\\Users\\Estevan Marcolino\\Desktop\\senaiDev\\2° Termo\\SpMedGroup\\2- BackEnd\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI.csproj",
+      "projectPath": "C:\\Users\\Estevan Marcolino\\Desktop\\senaiDev\\2° Termo\\SpMedicalGroup\\2- BackEnd\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI.csproj",
       "packagesPath": "C:\\Users\\Estevan Marcolino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estevan Marcolino\\Desktop\\senaiDev\\2° Termo\\SpMedGroup\\2- BackEnd\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI\\obj\\",
+      "outputPath": "C:\\Users\\Estevan Marcolino\\Desktop\\senaiDev\\2° Termo\\SpMedicalGroup\\2- BackEnd\\senai_SpMedicalGroup_webAPI\\senai_SpMedicalGroup_webAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Estevan Marcolino\\AppData\\Roaming\\NuGet\\NuGet.Config",
